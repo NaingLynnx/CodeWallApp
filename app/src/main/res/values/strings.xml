@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">CodeWallApp</string>
+
+    <string name="skip"><u>Skip</u></string>
+
+    <!--    On boarding text-->
+    <string name="boarding_firstHeader">Start Your Journey Wth Us</string>
+    <string name="boarding_first_txt">Welcome to CodeWall App! Explore diverse courses and unlock your potential. Your journey to success starts now!</string>
+
+    <string name="boarding_secHeader">Explore Courses></string>
+    <string name="boarding_sec_txt">Discover a wide range of courses curated just for you. From beginner to advanced levels, there\'s something for everyone</string>
+
+    <string name="boarding_thirdHeader">Improve Your Knowledge</string>
+    <string name="boarding_third_txt">Ready to dive in? Begin your learning journey now and unlock your full potential with CodeWall.</string>
 </resources>
